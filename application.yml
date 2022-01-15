@@ -1,1 +1,2 @@
-temperature_unit: K
+temperature:
+  unit: K
